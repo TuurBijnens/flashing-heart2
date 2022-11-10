@@ -4,7 +4,13 @@
         . . # . . 
         . . # . . 
         . . # . .
-        `</field></block></statement></block><block type="device_forever" id="$XgFmJsT=3).]zgWac~E" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="REoLn{;TB,}9}Q::}{-t"><field name="LEDS">`
+        `</field><next><block type="device_show_leds" id="5Yv8o?aU1Vv/?L62qqs%"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . #
+        `</field></block></next></block></statement></block><block type="device_forever" id="$XgFmJsT=3).]zgWac~E" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="REoLn{;TB,}9}Q::}{-t"><field name="LEDS">`
         . . . . . 
         . . # . . 
         . # . . . 
